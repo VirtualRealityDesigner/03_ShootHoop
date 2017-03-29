@@ -3,7 +3,6 @@
 + Your first 3D game
 + No VR device is required
 + Cardboard and Rift are optional
-**Please view and comment on live section notes using the attached link. You can download the latest version as a PDF from Google Slides if you wish.**
 
 ### Game Design Document Recap ###
 
@@ -131,12 +130,10 @@
 
 ### Updating UI Text to Show Score ###
 
-__
 + Separation of presentation and data. 
 + Updating UI text in code. 
 + Creating a HUD. 
 + Testing multiple screen resolutions. 
-__
 
 ### Persisting Data Between Scenes ###
 
