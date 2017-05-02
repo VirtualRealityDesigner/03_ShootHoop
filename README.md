@@ -184,7 +184,3 @@
 + Congratulations
 + What you learnt in this section
 + Share your creation with other students
-
----
-Find out more about our [Virtual Reality Designer Course](https://www.udemy.com/vrcourse/?couponCode=GitHubDiscount).
-
